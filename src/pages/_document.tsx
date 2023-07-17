@@ -8,6 +8,7 @@ export default function Document() {
         <Main />
         <NextScript />
       </body>
+      <script src="https://apps.elfsight.com/p/platform.js" defer></script>
     </Html>
   )
 }

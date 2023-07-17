@@ -60,6 +60,7 @@ const Home = () => {
         </div>
       </main>
       <ChatwootScript />
+      <div className="elfsight-app-9ad536dc-aa5d-42c6-87ff-b6dd8b019466"></div>
     </>
   )
 }
